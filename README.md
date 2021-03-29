@@ -6,6 +6,8 @@ You won’t have a lot of instruction, you are free to implement it the way that
 
 Here the final result:
 
+[Readme img](https://github.com/andres0191/holberton-smiling-school/blob/master/images/readme.jpg)
+
 
 ### The figma platform was used for this design.
 Figma is one of the most revolutionary graphics editing apps that’s taking over the design world by storm. What makes it so attractive is the fact that it’s free to use.
