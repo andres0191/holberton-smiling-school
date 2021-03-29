@@ -6,7 +6,7 @@ You won’t have a lot of instruction, you are free to implement it the way that
 
 Here the final result:
 
-[Readme img](https://github.com/andres0191/holberton-smiling-school/blob/master/images/readme.jpg)
+![Readme img](https://github.com/andres0191/holberton-smiling-school/blob/master/images/readme.jpg)
 
 
 ### The figma platform was used for this design.
